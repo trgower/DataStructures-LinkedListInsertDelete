@@ -1,0 +1,62 @@
+----------UNSORTED ARRAY----------
+135774, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+167651, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+980436, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+879519, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+687712, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+572779, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+321481, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+739287, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+708850, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+717901, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+
+----------UNSORTED LINKED LIST----------
+135774, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+167651, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+980436, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+879519, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+687712, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+572779, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+321481, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+739287, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+708850, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+717901, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+
+----------SORTED LINKED LIST----------
+135774, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+167651, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+321481, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+572779, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+687712, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+708850, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+717901, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+739287, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+879519, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+980436, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+
+Deleting the 5th element of the sorted list
+Deleting node with id = 135774
+----------RESULTING LINKED LIST----------
+167651, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+321481, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+572779, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+687712, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+708850, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+717901, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+739287, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+879519, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+980436, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+
+Inserting a new student to the sorted list, id = 861212
+----------RESULTING LINKED LIST----------
+167651, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+321481, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+572779, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+687712, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+708850, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+717901, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+739287, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+861212, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+879519, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+980436, John Doe, 123 Address Line, San Marcos, TX 78666, 4
+
